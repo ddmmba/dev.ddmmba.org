@@ -24,7 +24,7 @@ define('DB_NAME', 'dev_ddmmba_org');
 define('DB_USER', 'devddmmbaorg');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'JzEsbkGi');
+define('DB_PASSWORD', 'xxxxxx');
 
 /** MySQL hostname */
 define('DB_HOST', 'mysql.dev.ddmmba.org');
